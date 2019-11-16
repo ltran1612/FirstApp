@@ -5,7 +5,7 @@ Users can change the color of the background, text when clicking corresponding b
 Users can change the enter text, and click "CHANGE TEXT" to change the text in the label to that, else if they don't enter, a default text will be used.
 
 ### App Walk-though
-<img src="http://recordit.co/UWfdtCStXi" width=200><br>
+<img src="http://g.recordit.co/UWfdtCStXi.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
